@@ -1,0 +1,31 @@
+c:\users\samue\onedrive\documents\visual studio 2015\Projects\autobodies\autobodies\bin\Debug\autobodies.exe.config
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\bin\Debug\autobodiesdb.mdf
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\bin\Debug\autobodiesdb_log.ldf
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\bin\Debug\BCrypt.Net.dll
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\bin\Debug\BCrypt.Net.xml
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\obj\Debug\autobodies.csprojResolveAssemblyReference.cache
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\obj\Debug\autobodies.adminform.resources
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\obj\Debug\autobodies.LoginForm.resources
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\obj\Debug\autobodies.Properties.Resources.resources
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\obj\Debug\autobodies.csproj.GenerateResource.Cache
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\obj\Debug\autobodies.exe
+C:\Users\samue\OneDrive\Documents\Visual Studio 2015\Projects\autobodies\autobodies\obj\Debug\autobodies.pdb
+C:\Users\samue\Desktop\autobodies\autobodies\bin\Debug\autobodies.exe.config
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.exe
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.pdb
+C:\Users\samue\Desktop\autobodies\autobodies\bin\Debug\autobodiesdb.mdf
+C:\Users\samue\Desktop\autobodies\autobodies\bin\Debug\autobodiesdb_log.ldf
+C:\Users\samue\Desktop\autobodies\autobodies\bin\Debug\autobodies.exe
+C:\Users\samue\Desktop\autobodies\autobodies\bin\Debug\autobodies.pdb
+C:\Users\samue\Desktop\autobodies\autobodies\bin\Debug\BCrypt.Net.dll
+C:\Users\samue\Desktop\autobodies\autobodies\bin\Debug\BCrypt.Net.xml
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.csprojResolveAssemblyReference.cache
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.adminform.resources
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.LoginForm.resources
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.Properties.Resources.resources
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.csproj.GenerateResource.Cache
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.mechanicForm.resources
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.AddCustomerForm.resources
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.AddVehicleForm.resources
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.AddJobForm.resources
+C:\Users\samue\Desktop\autobodies\autobodies\obj\Debug\autobodies.Reports.resources
